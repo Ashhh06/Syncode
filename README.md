@@ -90,7 +90,7 @@ MIT
 
 ## 👤 Author
 
-Your Name
+Akshad
 
 ## 🙏 Acknowledgments
 
